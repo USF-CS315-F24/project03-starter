@@ -2,6 +2,6 @@
 
 # Reverse a string recursively
 
-rstr_rec_func_s:
+rstr_rec_s:
     # YOUR CODE HERE
     ret
